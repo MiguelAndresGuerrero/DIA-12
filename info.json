@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "grupo": "T2",
+        "estudiantes": [
+            {
+                "id": 1,
+                "nombre": "Wilmer",
+                "apellido": "rojas",
+                "edad": 20,
+                "fechaNacimiento": "10-05-1984",
+                "cedula": 46583453,
+                "email": "wilmer@gmail.com",
+                "github": "github.com"
+            },
+            {
+                "id": 2,
+                "nombre": "Jerxon",
+                "apellido": "Correa",
+                "edad": 20,
+                "fechaNacimiento": "11-05-2003",
+                "cedula": 283543721,
+                "email": "jerxon@gmail.com",
+                "github": "github.com"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "grupo": "P1",
+        "estudiantes": [
+            {
+                "id": 1,
+                "nombre": "Andres",
+                "apellido": "Pastrana",
+                "edad": 22,
+                "fechaNacimiento": "10-05-2009",
+                "cedula": 46763453,
+                "email": "andres@gmail.com",
+                "github": "github.com"
+            },
+            {
+                "id": 2,
+                "nombre": "Diego",
+                "apellido": "Correa",
+                "edad": 34,
+                "fechaNacimiento": "15-05-1989",
+                "cedula": 288742431,
+                "email": "diego@gmail.com",
+                "github": "github.com"
+            }
+        ]
+    }
+]
