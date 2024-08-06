@@ -1,5 +1,5 @@
 ### Dia 12 aprendiendo python
-- 
+- En este dia se buscaba aprender a consumir un json y reemplazar los datos de este
 
 ### Funcionalidad
 - El programa le mostrara al usuario un menu donde le dara 3 opciones:
