@@ -5,7 +5,7 @@
         "estudiantes": [
             {
                 "id": 1,
-                "nombre": "Wilmer",
+                "nombre": "Juan",
                 "apellido": "rojas",
                 "edad": 20,
                 "fechaNacimiento": "10-05-1984",
@@ -15,7 +15,7 @@
             },
             {
                 "id": 2,
-                "nombre": "Jerxon",
+                "nombre": "Juan",
                 "apellido": "Correa",
                 "edad": 20,
                 "fechaNacimiento": "11-05-2003",

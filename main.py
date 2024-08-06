@@ -1,11 +1,11 @@
 import json
 
 def abrirArchivo():
-    with open(r'DIA 12\info.json', 'r') as openfile:
+    with open(r"info.json", "r") as openfile:
         return json.load(openfile)
 
 def guardarArchivo(data):
-    with open(r"DIA 12\info.json", "w") as outfile:
+    with open(r"info.json", "w") as outfile:
         json.dump(data, outfile, indent=4)
 
 def estudiantes(grupo):
